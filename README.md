@@ -3,6 +3,7 @@
 An AI-powered medical assistant chatbot designed to provide intelligent, context-aware health guidance through natural conversations. MediBot uses Retrieval-Augmented Generation (RAG) to fetch relevant medical information and enhance chatbot accuracy.
 
 ✨ Features
+
 🩺 Symptom analysis and health-related queries
 📚 Retrieval-based answers from embedded medical documents
 💬 Conversational interface using Mistral LLM
