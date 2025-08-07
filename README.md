@@ -5,10 +5,15 @@ An AI-powered medical assistant chatbot designed to provide intelligent, context
 ✨ Features
 
 🩺 Symptom analysis and health-related queries
+
 📚 Retrieval-based answers from embedded medical documents
+
 💬 Conversational interface using Mistral LLM
+
 📊 Vector similarity search with Pinecone
+
 🔒 Secure access via environment-based configuration (.env)
+
 📱 Responsive and easy-to-use interface
 
 🛠️ Tech Stack
